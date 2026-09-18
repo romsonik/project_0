@@ -4,4 +4,4 @@ import os
 
 #load_dotenv()
 
-print(os.getenv("MY_NAME"))
+print(os.getenv("KLUCZ"))
