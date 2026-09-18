@@ -10,5 +10,6 @@ jobs:
    steps: 
      - name: Show variable 
        run: |
+             pwd
              ls -al
              echo "Moja zmienna to: $MY_NAME"
