@@ -4,4 +4,4 @@ import os
 
 #load_dotenv()
 
-print(os.getenv("KLUCZ"))
+print(os.getenv("MY_SECRET"))
