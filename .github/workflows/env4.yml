@@ -15,5 +15,5 @@ jobs:
         run: |
           pwd
           ls -al
-          #source .env
+          source .env
           echo "Moja zmienna to: $MY_NAME"
