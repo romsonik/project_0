@@ -17,3 +17,4 @@ jobs:
           ls -al
           source .env
           echo "Moja zmienna to: $MY_NAME"
+          python3 print_variable.py
