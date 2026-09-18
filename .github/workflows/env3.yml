@@ -9,7 +9,5 @@ jobs:
 
    steps: 
      - name: Show variable 
-       env: 
-         MY_NAME: Jan 
-       run: | 
+        run: | 
          echo "Moja zmienna to: $MY_NAME"
